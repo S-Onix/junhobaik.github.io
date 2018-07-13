@@ -36,9 +36,10 @@ tags:
 ### 접속부사
 1. 품사는 부사이고 연결을 매끄럽게 하는 뜻을 가지고 있는 부사
 2. 문장 안에서 작은 단위의 요소들의 연결보다는 문장 간, 단락 간 큰 내용의 흐름이 확장되거나 전환되거나 할 때 사용
-  - Also 또한 Moreover 게다가 Furthermore 게다가 | 내용을 덧붙이거나 확장에 사용
-  - However 그러나 Nevertheless (앞 내용) | ~에도 불구하고
+  - Also 또한 Moreover 게다가 Furthermore 게다가 (내용을 덧붙이거나 확장에 사용)
+  - However 그러나 Nevertheless (앞 내용) ~에도 불구하고
   - By the way 그런데 Meanwhile 한편
   - As a result 결과적으로 Consequently 결과적으로
+
 > I don't like meat **but** I am not a vegetarian.
 > **However**, I know vegetables are good for our body.
