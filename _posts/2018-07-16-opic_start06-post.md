@@ -27,8 +27,10 @@ tags:
   - 나는 음악 듣는 것을 좋아하는데,
     - 그때 나는 어떤 기기를 사용합니다.
       - I like listening to music using my smartphones(MP3 player).
+
     - 특히 나는 ~장르를 좋아합니다.
       - I like listening to music, especially I like rock genres.
+
     - 그것을 들으면서 스트레스를 풉니다.
       - I like listening to music because I can relieve stress doing it.
 
@@ -36,6 +38,7 @@ tags:
   - 나는 명사1 때문에, 명사2를 좋아합니다
   - 나는 합리적인 가격 때문에 그 레스토랑을 좋아합니다.
     - Because of the resonable price, I like the restaurant.
+
   - 그곳의 좋은 분위기 때문에 나는 그 레스토랑을 좋아합니다.
     - Because of its good atmosphere, I like the restaurant.
 
@@ -49,25 +52,32 @@ tags:
 - 당신이 가장 좋아하는 레스토랑은 무엇입니까? 그 레스토랑은 어디에 있고 당신은 그 곳을 왜 좋아합니까?
 1. 좋아하는 레스토랑의 종류
   - **My favorite** restaurant is a chinese restaurant.
+
 2. 레스토랑의 위치
   - It is just **a 5-minutes distance** from my house.
   - the restaurant is a typical Chinese restaurant.
+
 3. 레스토랑을 좋아하는 이유
   - Because of the fresh ingredients, I like the restaurant.
   - Also, the restaurant has special menu different from other restaurant.
+
 4. 결론
   - Therefore, I will go to the restaurant continuously.
 
 - **What** is the music device **you frequently use?** What **kind of functions** does it have and **why** do you use the device?
 1. 음악을 듣는 이유
   - I like listening to music because I can relieve stress doing it.
+
 2. 어느 기기를 사용하는지
   - My favorite music device is the smartphone.
   - The music device **I frequently use** is the smartphone.
+
 3. 어떤 기능들을 가지고 있는지
   - it has fuctions **for** calling and other additional purposes such as the music player.
+
 4. 왜 그 기기를 사용하는지
   - Because of its **good portablilty** , I like the device.
+
 5. 결론 (~로써 사용할 것이다.)
   - Therefore, I will use my smartphone **as** my music device continuously.
 
