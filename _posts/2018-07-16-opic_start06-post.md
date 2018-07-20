@@ -65,6 +65,7 @@ tags:
   - Therefore, I will go to the restaurant continuously.
 
 - **What** is the music device **you frequently use?** What **kind of functions** does it have and **why** do you use the device?
+
 1. 음악을 듣는 이유
   - I like listening to music because I can relieve stress doing it.
 

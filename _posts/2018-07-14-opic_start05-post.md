@@ -51,10 +51,10 @@ tags:
   - Also, the place has enough parking space.  
 
 ### 단어나 표현 정리
-- 집 근처 : a 장소 near my house. > becuase the park near my house.
-- 가까운 거리 : close location > because its close location from my house.
-- 아침 시간 : morning time > I prefer morning time.
-- 붐비지 않다 : not crowded > It is not cowded in the morning.
+- 집 근처 : a 장소 near my house. >> becuase the park near my house.
+- 가까운 거리 : close location >> because its close location from my house.
+- 아침 시간 : morning time >> I prefer morning time.
+- 붐비지 않다 : not crowded >> It is not cowded in the morning.
 - 둘 다 공원에 가는 것을 좋아함 : both like going to the park.
 - 편하고 넓은 좌석 : comfortable and wide seats
 - 충분한 주차 공간 : enough parking space
