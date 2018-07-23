@@ -17,9 +17,9 @@ tags:
 - 첫 문항에 모든것을 드러내지 마라! (대부분 3문제로 이루어져있기 때문에)
 - 한 가지 주제에 서로 다른 3개의 이야기를 준비하자
 - 순서에 따른 유형이 존재
-  - 현재 : 현재시제 사용(첫번째로 출제) / 루틴,일상 관련 and  실내.외 장소 묘사
-  - 과거 : 과거시제 사용(두번째로 출제) / 시작or좋아하게 된 계기 and 자신의 성향 변화, 최근 했던 활동
-  - 경험 : 과거시제 사용(세번째로 출제) / 주제에 대한 자신의 경험 , 기억에 남는 경험
+  - 1. 현재 : 현재시제 사용(첫번째로 출제) / 루틴,일상 관련 and  실내.외 장소 묘사
+  - 2. 과거 : 과거시제 사용(두번째로 출제) / 시작or좋아하게 된 계기 and 자신의 성향 변화, 최근 했던 활동
+  - 3. 경험 : 과거시제 사용(세번째로 출제) / 주제에 대한 자신의 경험 , 기억에 남는 경험
 
 - IM2 이상은 과거 시제 사용을 신경쓰면서 함
 
@@ -66,4 +66,4 @@ tags:
 |조깅|jogging|공원|parks|
 |하이킹|hiking|산|mountains|
 
-- A. I go [운동종류] almost every day. I try to do it as often as I can.<br/> My neighborhood has some really great [운동 장소s]. I normally go with my family or friends.<br/> We usually pack our thing and go there when the weather is nice. <br/>We go to the nearest [운동장소] by bicycle.<br/> It takes about 10 minutes from home. We are all pretty hardcore about it.<br/> We stop from time to time to enjoy view or have a snack.
+- A. I go [운동종류] almost every day. I try to do it as often as I can.<br/> My neighborhood has some really great [운동 장소s]. I normally go with my family or friends.<br/> We usually pack our thing and go there when the weather is nice. We go to the nearest [운동장소] by bicycle.<br/> It takes about 10 minutes from home. We are all hardcore about it.<br/> We stop from time to time to enjoy view or have a snack.
