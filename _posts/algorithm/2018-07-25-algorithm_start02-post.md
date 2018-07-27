@@ -65,13 +65,14 @@ public static void recursionReversePrintString(String str){
 }
 ```
 
--스텍에서의 모습
+- 스텍에서의 모습
+
 |단계1|단계2|단계3|단계4|단계5|단계6|단계7|단계8|단계9|결과|
 |---|---|---|---|---|---|---|---|---|---|
-|             |             |             |             |recur("")    |             |             |             |             |return|
-|             |             |             |recur("d")   |recur("d")   |recur("d")   |             |             |             |d출력|
-|             |             |recur("cd")  |recur("cd")  |recur("cd")  |recur("cd")  |recur("cd")  |             |             |c출력|
-|             |recur("bcd") |recur("bcd") |recur("bcd") |recur("bcd") |recur("bcd") |recur("bcd") |recur("bcd") |             |b출력|
+|||||recur("")|||||return|
+||||recur("d")|recur("d")|recur("d")||||d출력|
+|||recur("cd")|recur("cd")|recur("cd")|recur("cd")|recur("cd")|||c출력|
+||recur("bcd")|recur("bcd")|recur("bcd")|recur("bcd")|recur("bcd")|recur("bcd")|recur("bcd")||b출력|
 |recur("abcd")|recur("abcd")|recur("abcd")|recur("abcd")|recur("abcd")|recur("abcd")|recur("abcd")|recur("abcd")|recur("abcd")|a출력|
 
 
