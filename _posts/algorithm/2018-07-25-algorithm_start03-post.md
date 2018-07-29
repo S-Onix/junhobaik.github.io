@@ -82,3 +82,65 @@ public int otherSequenceSearch(int data[], int begin, int end, int target){
         }
 }
 ```
+
+### 최대값 구하기
+
+```
+public static int recursionFindMax(int data[], int begin, int end) {
+        if (begin == end)
+            return data[begin];
+        else {
+            return Math.max(data[begin], recursionFindMax(data, begin + 1, end));
+        }
+}
+```
+
+- 이해가 되지 않았던점 최대값을 구하는 방식
+- 내가 이해한점 결론은 두 숫자 비교를 순환적으로 함으로써 최대값 도출
+
+> 1. 배열 5개 1,3,5,7,8
+> 2. Math.max(data[0], re(data,1,4))
+> 3. Math.max(data[1], re(data,2,4))
+> 4. Math.max(data[2], re(data,3,4))
+> 5. Math.max(data[3], re(data,4,4))
+> 6. re(data,4,4) == 8
+> 7. Math.max(data[3], 8) = 8
+> 8. Math.max(data[2], 8) = 8
+> 9. data[0] 번째가 될때까지 반복
+
+### 이진탐색
+
+```
+public static int recursionBinarySearch(String array[], int begin, int end, String searchData) {
+        if(begin>end)
+            return -1;
+        else{
+            int middle = (begin+end)/2;
+            int compResult = searchData.compareTo(array[middle]);
+            if(compResult == 0)
+                return middle;
+            else if(compResult < 0)
+                return recursionBinarySearch(array, begin, middle-1, searchData);
+            else
+                return recursionBinarySearch(array, middle+1, end, searchData);
+
+        }
+}
+```
+
+- 조건 : 데이터가 정렬되어 있어야함
+- `compareTo()` 인스턴스를 비교하는 함수 `return type is int` 정수형으로 반환
+  - `< 0` : 비교하고자 하는 인스턴스보다 앞에 위치
+  - `= 0` : 비교하고자 하는 인스턴스와 동일
+  - `> 0` : 비교하고자 하는 인스턴스보다 뒤에 위치
+  ```
+    String A = "abc";
+    String B = "bcd";
+    int result = A.compareTo(b);    
+  ```
+
+> 1. 중앙값 검사
+> 2. 중앙값과 일치여부 확인
+> 3. 찾고자하는 값이 중앙값보다 작으면 첫번째위치에서 중앙값-1 위치까지 검색
+> 4. 찾고자하는 값이 중앙값보다 크면 중앙값 + 1 위치에서 마지막 위치까지 검색
+> 5. 데이터를 찾을때까지 반복 수행
