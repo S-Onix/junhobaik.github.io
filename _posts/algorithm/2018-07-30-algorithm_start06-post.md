@@ -1,5 +1,5 @@
 ---
-title: Couning cell in a Blob
+title: N Queen Recursion
 date: 2018-07-30 00:00:00 +0900
 tags:
   - algorithm
