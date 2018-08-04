@@ -41,4 +41,4 @@ tags:
 - 내가 생각했던점 : count 변수를 만들고 해당 위치가 image_pixel일 경우 +1씩 해주기
 - 내가 생각했던점의 문제점 : 그렇다면 recursion으로 어떻게 표현할 것인가?
 
-- [소스코드](https://github.com/S-Onix/algorithme_Training/blob/master/src/recursion/RecursionBlob.java)
+- [전체코드](https://github.com/S-Onix/algorithme_Training/blob/master/src/recursion/RecursionBlob.java)

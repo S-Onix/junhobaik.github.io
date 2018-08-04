@@ -33,4 +33,4 @@ else
     2) 현재 레벨의 원소를 포함하고 다름 레벨로 넘어감
 ```
 
-- [소스코드](https://github.com/S-Onix/algorithme_Training/blob/master/src/recursion/RecursionPowerset.java)
+- [전체코드](https://github.com/S-Onix/algorithme_Training/blob/master/src/recursion/RecursionPowerset.java)

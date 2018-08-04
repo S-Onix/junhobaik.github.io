@@ -86,4 +86,4 @@ public static int[] InsertionSort(int array[], int n){
 }
 ```
 
-- [소스코드](https://github.com/S-Onix/algorithme_Training/blob/master/src/Sort/Sort.java)
+- [전체코드](https://github.com/S-Onix/algorithme_Training/blob/master/src/Sort/Sort.java)

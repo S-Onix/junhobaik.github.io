@@ -64,4 +64,4 @@ public static void merge(int [] array, int [] temp, int start, int mid, int end)
 ![sor1](https://user-images.githubusercontent.com/33478245/43562010-7ce63402-9609-11e8-8879-4081d7783315.png)
 
 
-- [전체소스](https://github.com/S-Onix/algorithme_Training/blob/master/src/Sort/Sort_merge.java)
+- [전체코드](https://github.com/S-Onix/algorithme_Training/blob/master/src/Sort/Sort_merge.java)

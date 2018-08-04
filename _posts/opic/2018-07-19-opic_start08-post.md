@@ -66,4 +66,9 @@ tags:
 |조깅|jogging|공원|parks|
 |하이킹|hiking|산|mountains|
 
-- A. I go [운동종류] almost every day. I try to do it as often as I can.<br/> My neighborhood has some really great [운동 장소s]. I normally go with my family or friends.<br/> We usually pack our thing and go there when the weather is nice. <br/>We go to the nearest [운동장소] by bicycle.<br/> It takes about 10 minutes from home. We are all pretty hardcore about it.<br/> We stop from time to time to enjoy view or have a snack.
+- A. I go [운동종류] almost every day. I try to do it as often as I can. <br/>
+  My neighborhood has some really great [운동 장소s]. I normally go with my family or friends. <br/>
+  We usually pack our thing and go there when the weather is nice. <br/>
+  We go to the nearest [운동장소] by bicycle. <br/>
+  It takes about 10 minutes from home. We are all pretty hardcore about it. <br/>
+  We stop from time to time to enjoy view or have a snack.

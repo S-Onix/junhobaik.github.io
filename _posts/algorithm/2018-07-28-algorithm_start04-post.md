@@ -68,4 +68,4 @@ else{
 
 ![maze02](https://user-images.githubusercontent.com/33478245/43364763-f7fb647a-930f-11e8-898a-e613d7657153.PNG)
 
-- [전체 소스](https://github.com/S-Onix/algorithme_Training/blob/master/src/recursion/RecursionMaze.java)
+- [전체코드](https://github.com/S-Onix/algorithme_Training/blob/master/src/recursion/RecursionMaze.java)
