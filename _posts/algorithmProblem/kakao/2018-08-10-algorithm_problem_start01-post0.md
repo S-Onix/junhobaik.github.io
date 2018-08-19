@@ -1,8 +1,9 @@
 ---
-title: 카카오 코딩테스트 01번
+title: 카카오 코딩테스트 01번 비밀 지도
 date: 2018-08-10 00:00:20 +0900
 tags:
   - algorithm problem
+  - kakao
 ---
 
 

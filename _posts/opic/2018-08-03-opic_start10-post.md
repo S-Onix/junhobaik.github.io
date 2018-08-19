@@ -30,3 +30,11 @@ tags:
 |as I got older|커가면서, 자라가면서|
 |over time / as time goes by|시간이 지나면서|
 |on and off / sometimes / irregularly|때때로, 불규칙하게|
+
+- ex) I am addicted to coffee.
+- As I got older, I got into action movie (커가면서 나는 액션영화에 빠졌어)
+- as time when by(옛날 이야기 할떄)
+- I watch movie on and off.
+- 저의 음악 성향은 시간이 지나면서 바뀌어왔습니다. My music (preference)taste has changed over times
+- I used to like hiphop music as I got older I got into R&B
+- I addicted to   
