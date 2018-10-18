@@ -3,6 +3,7 @@ title: JAVA Bean Pattern
 date: 2018-10-17 00:00:00 +0900
 tags:
   - java
+  - design pattern
 ---
 ## JAVA Bean Pattern
 - 자바의 암묵적인? 룰이라고 해야하나 개발자는 클래스 내의 변수를 직접적으로 사용하지 않는다. 그렇다면 이 변수들을 어떻게 사용할 것인가?
